@@ -1,0 +1,4 @@
+ints,floats,bools,strings,dates,categories
+1,1.1,True,яблоко,2024-01-01,A
+2,2.2,False,приправа,2024-01-02,B
+3,3.3,True,корнос,2024-01-03,A
